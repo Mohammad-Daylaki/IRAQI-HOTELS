@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
-require "bundler/setup"
-require "hotels_in_iraq"
+require "./lib/hotels_in_iraq"
 HotelsInIraq::CLI.new.call
