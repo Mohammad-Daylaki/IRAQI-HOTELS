@@ -11,4 +11,4 @@ require "hotels_in_iraq"
 # Pry.start
 
 require "irb"
-IRB.start(__FILE__)
+IRB.start
