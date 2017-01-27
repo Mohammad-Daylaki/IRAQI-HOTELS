@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "./lib/hotels_in_iraq"
+HotelsInIraq::CLI.new.call
